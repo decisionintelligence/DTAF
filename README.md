@@ -16,7 +16,9 @@ patterns while preserving long-term dependencies. For the frequency domain, the 
 
 The Non-stationary MOE Filter: 
 
-<img src='./figs/moe.png' width="60%">
+<div align="center">
+<img alt="Logo" src="figs/moe.png" width="60%"/>
+</div>
 
 ## Quickstart
 1. Requirements
