@@ -2,10 +2,13 @@
 
 #  [AAAI 2026] Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing
 
- [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  [![PyTorch](https://img.shields.io/badge/PyTorch-2.4.1-blue)](https://pytorch.org/) ![Stars](https://img.shields.io/github/stars/decisionintelligence/DTAF)
+<div align="center">
+ 
+ [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-2.4.1-blue)](https://pytorch.org/) 
+ ![Stars](https://img.shields.io/github/stars/decisionintelligence/DTAF)
 
 This code is a PyTorch implementation of our AAAI'26 paper "Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing". [[arXiv]](https://arxiv.org/abs/2511.08229)
-
+</div>
 
 ## Introduction
 
